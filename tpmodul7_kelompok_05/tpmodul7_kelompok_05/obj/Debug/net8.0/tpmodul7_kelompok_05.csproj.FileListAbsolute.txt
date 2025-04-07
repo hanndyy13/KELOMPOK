@@ -1,0 +1,15 @@
+D:\My Code\GUI C#\KELOMPOK\tpmodul7_kelompok_05\tpmodul7_kelompok_05\bin\Debug\net8.0\tpmodul7_kelompok_05.exe
+D:\My Code\GUI C#\KELOMPOK\tpmodul7_kelompok_05\tpmodul7_kelompok_05\bin\Debug\net8.0\tpmodul7_kelompok_05.deps.json
+D:\My Code\GUI C#\KELOMPOK\tpmodul7_kelompok_05\tpmodul7_kelompok_05\bin\Debug\net8.0\tpmodul7_kelompok_05.runtimeconfig.json
+D:\My Code\GUI C#\KELOMPOK\tpmodul7_kelompok_05\tpmodul7_kelompok_05\bin\Debug\net8.0\tpmodul7_kelompok_05.dll
+D:\My Code\GUI C#\KELOMPOK\tpmodul7_kelompok_05\tpmodul7_kelompok_05\bin\Debug\net8.0\tpmodul7_kelompok_05.pdb
+D:\My Code\GUI C#\KELOMPOK\tpmodul7_kelompok_05\tpmodul7_kelompok_05\obj\Debug\net8.0\tpmodul7_kelompok_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Code\GUI C#\KELOMPOK\tpmodul7_kelompok_05\tpmodul7_kelompok_05\obj\Debug\net8.0\tpmodul7_kelompok_05.AssemblyInfoInputs.cache
+D:\My Code\GUI C#\KELOMPOK\tpmodul7_kelompok_05\tpmodul7_kelompok_05\obj\Debug\net8.0\tpmodul7_kelompok_05.AssemblyInfo.cs
+D:\My Code\GUI C#\KELOMPOK\tpmodul7_kelompok_05\tpmodul7_kelompok_05\obj\Debug\net8.0\tpmodul7_kelompok_05.csproj.CoreCompileInputs.cache
+D:\My Code\GUI C#\KELOMPOK\tpmodul7_kelompok_05\tpmodul7_kelompok_05\obj\Debug\net8.0\tpmodul7_kelompok_05.sourcelink.json
+D:\My Code\GUI C#\KELOMPOK\tpmodul7_kelompok_05\tpmodul7_kelompok_05\obj\Debug\net8.0\tpmodul7_kelompok_05.dll
+D:\My Code\GUI C#\KELOMPOK\tpmodul7_kelompok_05\tpmodul7_kelompok_05\obj\Debug\net8.0\refint\tpmodul7_kelompok_05.dll
+D:\My Code\GUI C#\KELOMPOK\tpmodul7_kelompok_05\tpmodul7_kelompok_05\obj\Debug\net8.0\tpmodul7_kelompok_05.pdb
+D:\My Code\GUI C#\KELOMPOK\tpmodul7_kelompok_05\tpmodul7_kelompok_05\obj\Debug\net8.0\tpmodul7_kelompok_05.genruntimeconfig.cache
+D:\My Code\GUI C#\KELOMPOK\tpmodul7_kelompok_05\tpmodul7_kelompok_05\obj\Debug\net8.0\ref\tpmodul7_kelompok_05.dll
