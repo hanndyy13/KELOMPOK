@@ -1,0 +1,28 @@
+{
+	"courses": [
+		{
+			"code": "CRI2C4",
+			"name": "Konstruksi Perangkat Lunak"
+		},
+		{
+			"code": "CRI2C5",
+			"name": "Proyek Tingkat"
+		},
+		{
+			"code": "CRI2C6",
+			"name": "Arsitektur Rekayasa Perangkat Lunak"
+		},
+		{
+			"code": "CRI2C7",
+			"name": "Basis Data"
+		},
+		{
+			"code": "CRI2C8",
+			"name": "Kecerdasan Buatan"
+		},
+		{
+			"code": "CRI2C9",
+			"name": "Dasar Jaringan Kommputer"
+		}
+	]
+}
