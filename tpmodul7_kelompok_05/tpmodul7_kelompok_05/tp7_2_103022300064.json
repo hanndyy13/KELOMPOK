@@ -5,28 +5,24 @@
 			"name": "Konstruksi Perangkat Lunak"
 		},
 		{
-			"code": "kode_matkul_2",
-			"name": "nama_matkul_2"
+			"code": "CRI2C5",
+			"name": "Proyek Tingkat"
 		},
 		{
-			"code": "kode_matkul_3",
-			"name": "nama_matkul_3"
+			"code": "CRI2C6",
+			"name": "Arsitektur Rekayasa Perangkat Lunak"
 		},
 		{
-			"code": "kode_matkul_4",
-			"name": "nama_matkul_4"
+			"code": "CRI2C7",
+			"name": "Basis Data"
 		},
 		{
-			"code": "kode_matkul_5",
-			"name": "nama_matkul_5"
+			"code": "CRI2C8",
+			"name": "Kecerdasan Buatan"
 		},
 		{
-			"code": "kode_matkul_6",
-			"name": "nama_matkul_6"
-		},
-		{
-			"code": "kode_matkul_7",
-			"name": "nama_matkul_7"
+			"code": "CRI2C9",
+			"name": "Dasar Jaringan Kommputer"
 		}
 	]
 }

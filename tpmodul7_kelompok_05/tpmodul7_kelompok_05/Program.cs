@@ -26,7 +26,7 @@ public class DataMahasiswa103022300064
         }
         else
         {
-            Console.WriteLine("Failed to deserialize JSON.");
+            Console.WriteLine("Failed to deserialize JSON!.");
         }
     }
 }
