@@ -26,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -46,8 +42,7 @@
               "RelativeToolTip": "tpmodul07_kelompok_05\\tp7_1_103022300053.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-07T04:59:41.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T04:59:41.992Z"
             },
             {
               "$type": "Document",
@@ -71,8 +66,7 @@
               "ToolTip": "D:\\KONSTRUKSI\\tp7\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj",
               "RelativeToolTip": "tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-07T04:15:28.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T04:15:28.187Z"
             },
             {
               "$type": "Document",
@@ -84,8 +78,11 @@
               "RelativeToolTip": "tpmodul07_kelompok_05\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T04:14:53.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T04:14:53.714Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
