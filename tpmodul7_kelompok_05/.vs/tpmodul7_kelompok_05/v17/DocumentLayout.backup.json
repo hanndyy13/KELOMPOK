@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{9C266CF6-ED12-4603-ABC3-C74F41647D47}|tpmodul7_kelompok_05\\tpmodul7_kelompok_05.csproj|d:\\my code\\gui c#\\kelompok\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\tp7_1_103022300064.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{9C266CF6-ED12-4603-ABC3-C74F41647D47}|tpmodul7_kelompok_05\\tpmodul7_kelompok_05.csproj|solutionrelative:tpmodul7_kelompok_05\\tp7_1_103022300064.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C266CF6-ED12-4603-ABC3-C74F41647D47}|tpmodul7_kelompok_05\\tpmodul7_kelompok_05.csproj|d:\\my code\\gui c#\\kelompok\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9C266CF6-ED12-4603-ABC3-C74F41647D47}|tpmodul7_kelompok_05\\tpmodul7_kelompok_05.csproj|solutionrelative:tpmodul7_kelompok_05\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\My Code\\GUI C#\\KELOMPOK\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\.gitignore",
+              "RelativeDocumentMoniker": "tpmodul7_kelompok_05\\.gitignore",
+              "ToolTip": "D:\\My Code\\GUI C#\\KELOMPOK\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\.gitignore",
+              "RelativeToolTip": "tpmodul7_kelompok_05\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-07T03:30:52.547Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,7 +52,7 @@
               "RelativeDocumentMoniker": "tpmodul7_kelompok_05\\tp7_2_103022300064.json",
               "ToolTip": "D:\\My Code\\GUI C#\\KELOMPOK\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\tp7_2_103022300064.json",
               "RelativeToolTip": "tpmodul7_kelompok_05\\tp7_2_103022300064.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-07T03:13:25.798Z",
               "EditorCaption": ""
@@ -56,9 +76,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My Code\\GUI C#\\KELOMPOK\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul7_kelompok_05\\Program.cs",
-              "ToolTip": "D:\\My Code\\GUI C#\\KELOMPOK\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\Program.cs",
-              "RelativeToolTip": "tpmodul7_kelompok_05\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBwAAAA6AAAAAAAAAA==",
+              "ToolTip": "D:\\My Code\\GUI C#\\KELOMPOK\\tpmodul7_kelompok_05\\tpmodul7_kelompok_05\\Program.cs*",
+              "RelativeToolTip": "tpmodul7_kelompok_05\\Program.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwEQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T02:56:17.896Z",
               "EditorCaption": ""
