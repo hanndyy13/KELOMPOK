@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tupog\\.nuget\\packages\\": {}
+    "C:\\Users\\ibrahim\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Code\\GUI C#\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj",
+      "projectUniqueName": "D:\\muthi\\asdfghjkl\\draw\\kebutuhan kuliah\\tugas\\konsPL\\PRAKTIKUM\\KELOMPOK\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj",
       "projectName": "tpmodul07_kelompok_05",
-      "projectPath": "D:\\My Code\\GUI C#\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj",
-      "packagesPath": "C:\\Users\\tupog\\.nuget\\packages\\",
-      "outputPath": "D:\\My Code\\GUI C#\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\obj\\",
+      "projectPath": "D:\\muthi\\asdfghjkl\\draw\\kebutuhan kuliah\\tugas\\konsPL\\PRAKTIKUM\\KELOMPOK\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj",
+      "packagesPath": "C:\\Users\\ibrahim\\.nuget\\packages\\",
+      "outputPath": "D:\\muthi\\asdfghjkl\\draw\\kebutuhan kuliah\\tugas\\konsPL\\PRAKTIKUM\\KELOMPOK\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\tupog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ibrahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

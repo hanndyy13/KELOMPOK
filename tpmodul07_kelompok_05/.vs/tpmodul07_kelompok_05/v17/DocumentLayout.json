@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\My Code\\GUI C#\\tpmodul07_kelompok_05\\",
+  "WorkspaceRootPath": "D:\\muthi\\asdfghjkl\\draw\\kebutuhan kuliah\\tugas\\konsPL\\PRAKTIKUM\\KELOMPOK\\tpmodul07_kelompok_05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE304609-4BC6-4110-B26C-14678D220396}|tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj|d:\\my code\\gui c#\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{DE304609-4BC6-4110-B26C-14678D220396}|tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj|solutionrelative:tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{DE304609-4BC6-4110-B26C-14678D220396}|tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj|d:\\muthi\\asdfghjkl\\draw\\kebutuhan kuliah\\tugas\\konspl\\praktikum\\kelompok\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE304609-4BC6-4110-B26C-14678D220396}|tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj|solutionrelative:tpmodul07_kelompok_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE304609-4BC6-4110-B26C-14678D220396}|tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj|d:\\my code\\gui c#\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE304609-4BC6-4110-B26C-14678D220396}|tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj|solutionrelative:tpmodul07_kelompok_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE304609-4BC6-4110-B26C-14678D220396}|tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj|d:\\muthi\\asdfghjkl\\draw\\kebutuhan kuliah\\tugas\\konspl\\praktikum\\kelompok\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\datamahasiswa103022330117.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE304609-4BC6-4110-B26C-14678D220396}|tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj|solutionrelative:tpmodul07_kelompok_05\\datamahasiswa103022330117.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,35 +18,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "tpmodul07_kelompok_05",
-              "DocumentMoniker": "D:\\My Code\\GUI C#\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj",
-              "RelativeDocumentMoniker": "tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj",
-              "ToolTip": "D:\\My Code\\GUI C#\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj",
-              "RelativeToolTip": "tpmodul07_kelompok_05\\tpmodul07_kelompok_05.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-07T04:15:28.187Z",
+              "DocumentIndex": 1,
+              "Title": "DataMahasiswa103022330117.cs",
+              "DocumentMoniker": "D:\\muthi\\asdfghjkl\\draw\\kebutuhan kuliah\\tugas\\konsPL\\PRAKTIKUM\\KELOMPOK\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\DataMahasiswa103022330117.cs",
+              "RelativeDocumentMoniker": "tpmodul07_kelompok_05\\DataMahasiswa103022330117.cs",
+              "ToolTip": "D:\\muthi\\asdfghjkl\\draw\\kebutuhan kuliah\\tugas\\konsPL\\PRAKTIKUM\\KELOMPOK\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\DataMahasiswa103022330117.cs*",
+              "RelativeToolTip": "tpmodul07_kelompok_05\\DataMahasiswa103022330117.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAzwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:51:52.543Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\My Code\\GUI C#\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\Program.cs",
+              "DocumentMoniker": "D:\\muthi\\asdfghjkl\\draw\\kebutuhan kuliah\\tugas\\konsPL\\PRAKTIKUM\\KELOMPOK\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul07_kelompok_05\\Program.cs",
-              "ToolTip": "D:\\My Code\\GUI C#\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\Program.cs",
-              "RelativeToolTip": "tpmodul07_kelompok_05\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\muthi\\asdfghjkl\\draw\\kebutuhan kuliah\\tugas\\konsPL\\PRAKTIKUM\\KELOMPOK\\tpmodul07_kelompok_05\\tpmodul07_kelompok_05\\Program.cs*",
+              "RelativeToolTip": "tpmodul07_kelompok_05\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T04:14:53.714Z",
+              "WhenOpened": "2025-04-07T06:48:32.94Z",
               "EditorCaption": ""
             }
           ]
